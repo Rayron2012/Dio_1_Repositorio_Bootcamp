@@ -14,7 +14,7 @@ setup(
     description="Meu primeiro pacote de teste",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/Rayron2012/Dio_1_Repositorio_Bootcamp.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
